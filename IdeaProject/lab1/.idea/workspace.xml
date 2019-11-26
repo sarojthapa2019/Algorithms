@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7a63415-a356-4db9-b6dc-d0460efc05be" name="Default Changelist" comment="" />
+    <list default="true" id="b7a63415-a356-4db9-b6dc-d0460efc05be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab1/Algo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab1/Algo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab1/Algo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab1/Algo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab1/Algo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab1/Algo3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab1/Algo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab1/Algo4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algo4.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +26,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1U7d22adDZd1AmUhkOP6cLBSPMK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -36,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Algo1">
+  <component name="RunManager" selected="Application.Algo3">
     <configuration name="Algo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algo1" />
       <module name="lab1" />
@@ -67,10 +83,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Algo1" />
-        <item itemvalue="Application.Algo4" />
         <item itemvalue="Application.Algo3" />
+        <item itemvalue="Application.Algo4" />
         <item itemvalue="Application.Algo2" />
+        <item itemvalue="Application.Algo1" />
       </list>
     </recent_temporary>
   </component>
@@ -85,21 +101,22 @@
       <option name="presentableId" value="Default" />
       <updated>1574711357135</updated>
       <workItem from="1574711361698" duration="4619000" />
+      <workItem from="1574789063121" duration="3650000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Algo4.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
