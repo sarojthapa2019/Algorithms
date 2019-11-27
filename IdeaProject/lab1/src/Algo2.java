@@ -4,7 +4,7 @@ public class Algo2 {
     public static void main(String[] args){
         Algo2 algo1 = new Algo2();
         Random random = new Random();
-        int[] array = random.ints(4000, 10,100000).toArray();
+        int[] array = random.ints(40000, 10,100000).toArray();
         long start = System.currentTimeMillis();
         System.out.println(algo1.findLargestDistance(array));
         long end = System.currentTimeMillis();
