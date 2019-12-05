@@ -25,7 +25,7 @@ public class SelectionSort {
         return index;
     }
     public static void main(String[] args){
-        new SelectionSort()il.sort();
+        new SelectionSort().sort();
         System.out.println("asf");
     }
 }
